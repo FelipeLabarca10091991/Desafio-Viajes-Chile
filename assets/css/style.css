@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: aliceblue;
+
+}
+/* navbar */
+.trn{
+    background: transparent !important;
+    z-index: 99;
+}
+
+
+
+/* Carrusel */
+.carousel{
+    margin-top: -56px;
+}
+
+/* Quienes Somos */
+
+  
